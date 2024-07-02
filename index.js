@@ -16,13 +16,13 @@ let ans =arr2.splice(0,n);
 console.log(ans);
 
 let strr=prompt("enter anything that you want to see: ");
-let strrr=prompt("naughty america : ");
+let strrr=prompt("Enter any string : ");
 if(strrr=strrr.length==0){
     console.log("string is empty! ");
 
 }
 else if(strrr.length==0){
-    console.log("teri behenke bhosde: string is empyt ");
+    console.log("string is empyt ");
 }
 else{
     console.log("str is not empty: ");
